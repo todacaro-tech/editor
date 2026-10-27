@@ -4,9 +4,9 @@
 
 El editor de reels de [Carolina Jansen](https://instagram.com/todacaro), dentro de Claude Code. Le das tu grabación, le dices lo que quieres en tus palabras y te entrega el reel vertical listo para publicar.
 
-**Pruébalo encima de Caro y consíguelo en [todacaro.tech/editor](https://todacaro.tech/editor/).**
+**Mira los efectos en acción y consíguelo en [todacaro.tech/editor](https://todacaro.tech/editor/).**
 
-<p align="center"><img src="img/probador.jpg" alt="Probador de efectos: se arrastra un efecto encima de Caro y el video cambia" width="100%"></p>
+<p align="center"><img src="img/probador.jpg" alt="Probador de efectos del editor" width="100%"></p>
 
 ## Qué hace
 
